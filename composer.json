@@ -1,5 +1,5 @@
 {
-    "name": "nepda/youtrack-client",
+    "name": "otgs/youtrack-client",
     "description": "A PHP YouTrack client library",
     "license": "BSD-4-Clause",
     "authors": [
